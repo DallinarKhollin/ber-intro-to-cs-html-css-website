@@ -1,0 +1,38 @@
+  body,
+html {
+  background-color: #20DF65;
+  height: 100%;
+  margin: 0px;
+}
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: Arial, sans-serif;
+  font-weight: 500;
+  color: #5354f4;
+}
+
+    .navbar {
+    background-color: #CE4427;
+    overflow: hidden;
+  }
+  /*Navigation bar links*/
+.navbar a {
+    display: block;
+    padding: 20px 25px;
+    text-align: center;
+    text-decoration: none;
+    float: left;
+    color: white;
+  }
+  /*Hovering over navigation bar*/
+.navbar a:hover {
+    background-color: #faf800;
+    color: black;
+  }
+  
